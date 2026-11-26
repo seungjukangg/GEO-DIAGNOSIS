@@ -1,0 +1,8 @@
+{
+  "name": "GEO 진단",
+  "description": "영상 콘텐츠의 AI 검색(GEO) 노출 경쟁력을 분석하고 훅, 핵심 질문 응답률, 자막·대본 리라이팅 및 텍스트 패키지를 제안하는 진단 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
